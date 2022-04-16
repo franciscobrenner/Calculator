@@ -1,2 +1,2 @@
 # Calculator
-Calculator created to test my skills.
+Calculator created following a tutorial, to test my skills and learn new things.
